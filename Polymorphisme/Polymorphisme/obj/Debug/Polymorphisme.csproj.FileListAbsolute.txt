@@ -1,0 +1,7 @@
+D:\kuliah\Semester 3\Pemrograman Berbasis Objek\Tugas 2\Polymorphisme\Polymorphisme\bin\Debug\Polymorphisme.exe.config
+D:\kuliah\Semester 3\Pemrograman Berbasis Objek\Tugas 2\Polymorphisme\Polymorphisme\bin\Debug\Polymorphisme.exe
+D:\kuliah\Semester 3\Pemrograman Berbasis Objek\Tugas 2\Polymorphisme\Polymorphisme\bin\Debug\Polymorphisme.pdb
+D:\kuliah\Semester 3\Pemrograman Berbasis Objek\Tugas 2\Polymorphisme\Polymorphisme\obj\Debug\Polymorphisme.csprojAssemblyReference.cache
+D:\kuliah\Semester 3\Pemrograman Berbasis Objek\Tugas 2\Polymorphisme\Polymorphisme\obj\Debug\Polymorphisme.csproj.CoreCompileInputs.cache
+D:\kuliah\Semester 3\Pemrograman Berbasis Objek\Tugas 2\Polymorphisme\Polymorphisme\obj\Debug\Polymorphisme.exe
+D:\kuliah\Semester 3\Pemrograman Berbasis Objek\Tugas 2\Polymorphisme\Polymorphisme\obj\Debug\Polymorphisme.pdb

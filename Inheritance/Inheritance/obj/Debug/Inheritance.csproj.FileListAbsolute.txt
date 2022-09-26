@@ -1,0 +1,7 @@
+D:\kuliah\Semester 3\Pemrograman Berbasis Objek\Tugas 2\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+D:\kuliah\Semester 3\Pemrograman Berbasis Objek\Tugas 2\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\kuliah\Semester 3\Pemrograman Berbasis Objek\Tugas 2\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\kuliah\Semester 3\Pemrograman Berbasis Objek\Tugas 2\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+D:\kuliah\Semester 3\Pemrograman Berbasis Objek\Tugas 2\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\kuliah\Semester 3\Pemrograman Berbasis Objek\Tugas 2\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+D:\kuliah\Semester 3\Pemrograman Berbasis Objek\Tugas 2\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

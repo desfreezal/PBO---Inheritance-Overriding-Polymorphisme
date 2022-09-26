@@ -1,0 +1,7 @@
+D:\kuliah\Semester 3\Pemrograman Berbasis Objek\Tugas 2\Overriding\Overriding\bin\Debug\Overriding.exe.config
+D:\kuliah\Semester 3\Pemrograman Berbasis Objek\Tugas 2\Overriding\Overriding\bin\Debug\Overriding.exe
+D:\kuliah\Semester 3\Pemrograman Berbasis Objek\Tugas 2\Overriding\Overriding\bin\Debug\Overriding.pdb
+D:\kuliah\Semester 3\Pemrograman Berbasis Objek\Tugas 2\Overriding\Overriding\obj\Debug\Overriding.csprojAssemblyReference.cache
+D:\kuliah\Semester 3\Pemrograman Berbasis Objek\Tugas 2\Overriding\Overriding\obj\Debug\Overriding.csproj.CoreCompileInputs.cache
+D:\kuliah\Semester 3\Pemrograman Berbasis Objek\Tugas 2\Overriding\Overriding\obj\Debug\Overriding.exe
+D:\kuliah\Semester 3\Pemrograman Berbasis Objek\Tugas 2\Overriding\Overriding\obj\Debug\Overriding.pdb
