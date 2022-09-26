@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PBO Python", "PBO Python\PBO Python.pyproj", "{3EE75C2A-2791-4A31-9DCA-59F3EE857D3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EE75C2A-2791-4A31-9DCA-59F3EE857D3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE75C2A-2791-4A31-9DCA-59F3EE857D3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94BE086F-F8BF-42E2-8127-A2A0E6C1685F}
+	EndGlobalSection
+EndGlobal
